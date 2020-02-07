@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 09f3c20895e60a54ca13000dfcd8d771
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Powderfinger Smudged
+  fontNames:
+  - Powderfinger Smudged
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4e03b886f53ea9d4ebe4d302a2034bbe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7d98adb632e45b144b1711b923bc85a2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Powderfinger Type
+  fontNames:
+  - Powderfinger Type
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b197b06198762034c9c62bf1d934a998, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
